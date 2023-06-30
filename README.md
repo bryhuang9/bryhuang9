@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **brian.yao.huang@gmail.com**
 
+- 📄 My website [https://brianhuang.dev/](https://brianhuang.dev/)
+
 - ⚡ Fun fact **I play a lot of video games**
 
 <h3 align="left">Connect with me:</h3>
