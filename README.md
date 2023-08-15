@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Huang</h1>
 <h3 align="center">A college student at UC Davis, previously UC Santa Cruz, majoring in Computer Science</h3>
 
-- 🔭 I’m currently working on **a live person detector with OpenCV in C++**
+- 🔭 I’m currently working on **a chess game in C++**
 
 - 📫 How to reach me **brian.yao.huang@gmail.com**
 
