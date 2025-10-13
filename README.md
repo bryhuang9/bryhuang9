@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Huang</h1>
-<h3 align="center">A fourth year college student at UC Davis majoring in Computer Science</h3>
+<h3 align="center">Aspiring Software Engineer, UC Davis Alum</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
