@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Huang</h1>
 <h3 align="center">Software Engineer, UC Davis Alum</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently insearch of a SWE role**
 
 - 📫 How to reach me **brian.yao.huang@gmail.com**
 
